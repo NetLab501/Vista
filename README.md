@@ -1,4 +1,4 @@
-# Vista: Ground Station Assignment in LEO Satellite Networks
+# Vista: Ground Station Assignment
 
 This repository contains the implementation of ground station assignment as described in the paper:
 
